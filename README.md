@@ -1,2 +1,2 @@
-# java-script-lab
-set lab
+# java-script-sec-lab
+
